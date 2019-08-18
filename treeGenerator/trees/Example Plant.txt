@@ -1,0 +1,5 @@
+12 //generations
+1.2 //angle spec
+1 //thickness
+FFLX //axiom
+X=FFRFL //Rules

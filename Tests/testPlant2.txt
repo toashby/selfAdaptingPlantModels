@@ -1,0 +1,5 @@
+6
+0.6
+0.3
+FFFT
+T=[+FFFT]YYY[+FFFT]YYY[+FFFT]

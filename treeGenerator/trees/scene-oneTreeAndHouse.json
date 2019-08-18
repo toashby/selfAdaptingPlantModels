@@ -1,0 +1,53 @@
+{
+  "obj1": {
+    "oType": "obj",
+    "x": 4.0,
+    "y": 0.1,
+    "z": -1.0,
+    "sx": 0.8,
+    "sy": 0.7,
+    "sz": 0.4,
+    "name": "house/house.obj"
+  },
+  "obj2": {
+    "oType": "obj",
+    "x": -3,
+    "y": 0.1,
+    "z": 0,
+    "sx": 0.4,
+    "sy": 1.2,
+    "sz": 0.4,
+    "name": "column/column.obj"
+  },
+	"plant1": {
+    "oType": "plant",
+    "amount": 1,
+    "xSpread": 20,
+    "ySpread": 20,
+	"scale": 0.6,
+	"maxBend": 0.1,
+	"bendMultiplier": 0.9,
+    "name": "trees/plant1.txt"
+  },
+	"plant2": {
+    "oType": "plant",
+    "amount": 1,
+    "xSpread": 20,
+    "ySpread": 20,
+	"scale": 0.5,
+	"maxBend": 0.1,
+	"bendMultiplier": 0.9,
+    "name": "trees/plant2.txt"
+  },
+	"plant3": {
+    "oType": "plant",
+    "amount": 1,
+    "xSpread": 20,
+    "ySpread": 20,
+	"scale": 0.5,
+	"maxBend": 0.1,
+	"bendMultiplier": 0.9,
+    "name": "trees/plant3.txt"
+  }
+
+}
